@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/florianzwagemaker/citations_test/compare/v0.1.0...v0.1.1) (2023-02-27)
+
+
+### Bug Fixes
+
+* updated permissions for sync workflow ([9edfa87](https://github.com/florianzwagemaker/citations_test/commit/9edfa87a9d9bffa0d57dd540b6ba746879d53a4f))
+
 ## 0.1.0 (2023-02-27)
 
 
