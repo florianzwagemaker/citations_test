@@ -4,7 +4,7 @@ authors:
   - family-names: "Zwagemaker"
     given-names: "Florian"
   - name: "The RIVM BioInformatics team" 
-version: 0.1.1 #x-release-please-version
+version: 0.1.2 #x-release-please-version
 title: "Citations Test"
 date-released: 2023-02-27
 url: "https://github.com/florianzwagemaker/citations_test"
