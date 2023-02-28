@@ -1,9 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Zwagemaker"
-  given-names: "Florian"
-version: 0.1.1 #x-release-please-version
-title: "extract_genes_abricate.py"
+  - family-names: "Zwagemaker"
+    given-names: "Florian"
+  - name: "The RIVM BioInformatics team" 
+version: 0.1.2 #x-release-please-version
+doi: 10.5281/zenodo.7684307
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7684307
+    description: This is the collection of archived snapshots of all versions of AmpliGone
+title: "Citations Test"
 date-released: 2023-02-27
 url: "https://github.com/florianzwagemaker/citations_test"
