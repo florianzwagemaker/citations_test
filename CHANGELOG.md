@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/florianzwagemaker/citations_test/compare/v0.1.2...v0.1.3) (2023-02-28)
+
+
+### Bug Fixes
+
+* add doi to citation file ([5248078](https://github.com/florianzwagemaker/citations_test/commit/5248078d278a56683c04fffaf21628ff173a8a4b))
+
 ## [0.1.2](https://github.com/florianzwagemaker/citations_test/compare/v0.1.1...v0.1.2) (2023-02-27)
 
 
