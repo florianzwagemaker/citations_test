@@ -5,6 +5,11 @@ authors:
     given-names: "Florian"
   - name: "The RIVM BioInformatics team" 
 version: 0.1.2 #x-release-please-version
+doi: 10.5281/zenodo.7684307
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7684307
+    description: This is the collection of archived snapshots of all versions of AmpliGone
 title: "Citations Test"
 date-released: 2023-02-27
 url: "https://github.com/florianzwagemaker/citations_test"
